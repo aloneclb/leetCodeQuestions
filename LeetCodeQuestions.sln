@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question13_Roman_To_Integer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question21_Merge_Two_Sorted_List", "Question21_Merge_Two_Sorted_List\Question21_Merge_Two_Sorted_List.csproj", "{92EB48FA-92CF-446F-B8A9-817C71E18A57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question35_Search_Insert_Position", "Question35_Search_Insert_Position\Question35_Search_Insert_Position.csproj", "{4E15C033-398A-4A9B-896B-9F7054876941}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{92EB48FA-92CF-446F-B8A9-817C71E18A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92EB48FA-92CF-446F-B8A9-817C71E18A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92EB48FA-92CF-446F-B8A9-817C71E18A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E15C033-398A-4A9B-896B-9F7054876941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E15C033-398A-4A9B-896B-9F7054876941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E15C033-398A-4A9B-896B-9F7054876941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E15C033-398A-4A9B-896B-9F7054876941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
