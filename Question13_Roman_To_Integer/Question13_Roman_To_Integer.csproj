@@ -9,9 +9,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Content Include="..\.dockerignore">
-        <Link>.dockerignore</Link>
-      </Content>
       <Content Include="bin\Debug\net8.0\Question13_Roman_To_Integer.deps.json" />
       <Content Include="bin\Debug\net8.0\Question13_Roman_To_Integer.dll" />
       <Content Include="bin\Debug\net8.0\Question13_Roman_To_Integer.exe" />
