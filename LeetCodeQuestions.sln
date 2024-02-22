@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question35_Search_Insert_Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question70_Climbing_Stairs", "Question70_Climbing_Stairs\Question70_Climbing_Stairs.csproj", "{ADED386F-0A65-491C-BE29-E2342E082838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question94_Binary_Tree_Inorder_Traversal", "Question94_Binary_Tree_Inorder_Traversal\Question94_Binary_Tree_Inorder_Traversal.csproj", "{6EEC5ED1-DE59-4658-8949-9C6C37D90872}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{ADED386F-0A65-491C-BE29-E2342E082838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADED386F-0A65-491C-BE29-E2342E082838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADED386F-0A65-491C-BE29-E2342E082838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EEC5ED1-DE59-4658-8949-9C6C37D90872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEC5ED1-DE59-4658-8949-9C6C37D90872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEC5ED1-DE59-4658-8949-9C6C37D90872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEC5ED1-DE59-4658-8949-9C6C37D90872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
