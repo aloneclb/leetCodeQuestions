@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question101_Symmetric_Tree"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_104_Maximum_Depth_Binary_Tree", "Question_104_Maximum_Depth_Binary_Tree\Question_104_Maximum_Depth_Binary_Tree.csproj", "{04A8255E-FDB0-4B7B-A4B8-55AFE0D6B481}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_118_Pascals_Triangle", "Question_118_Pascals_Triangle\Question_118_Pascals_Triangle.csproj", "{3DA50EF4-3AF2-41F1-A7EF-1535574ED73B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{04A8255E-FDB0-4B7B-A4B8-55AFE0D6B481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04A8255E-FDB0-4B7B-A4B8-55AFE0D6B481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04A8255E-FDB0-4B7B-A4B8-55AFE0D6B481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA50EF4-3AF2-41F1-A7EF-1535574ED73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA50EF4-3AF2-41F1-A7EF-1535574ED73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA50EF4-3AF2-41F1-A7EF-1535574ED73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA50EF4-3AF2-41F1-A7EF-1535574ED73B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
