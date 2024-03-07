@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_136_Single_Number"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_141_Linked_List_Cycle", "Question_141_Linked_List_Cycle\Question_141_Linked_List_Cycle.csproj", "{3FA8488E-94D7-4E36-AF20-5EF9C4DB1661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_160_Intersection_of_Two_Linked_Lists", "Question_160_Intersection_of_Two_Linked_Lists\Question_160_Intersection_of_Two_Linked_Lists.csproj", "{01F844A0-3F54-4219-B9C4-D1250FF755F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{3FA8488E-94D7-4E36-AF20-5EF9C4DB1661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FA8488E-94D7-4E36-AF20-5EF9C4DB1661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FA8488E-94D7-4E36-AF20-5EF9C4DB1661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F844A0-3F54-4219-B9C4-D1250FF755F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F844A0-3F54-4219-B9C4-D1250FF755F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F844A0-3F54-4219-B9C4-D1250FF755F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F844A0-3F54-4219-B9C4-D1250FF755F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

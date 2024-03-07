@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics;
-using System.Reflection.Metadata.Ecma335;
 
 var stopwatch = new Stopwatch();
 stopwatch.Start();
