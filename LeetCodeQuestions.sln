@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_160_Intersection_o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_169_Majority_Element", "Question_169_Majority_Element\Question_169_Majority_Element.csproj", "{5C7E9D74-1490-4F0E-B379-59A35151A735}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_206_Reverse_Linked_List", "Question_206_Reverse_Linked_List\Question_206_Reverse_Linked_List.csproj", "{F04ABA41-78F8-4F64-9AFC-D23125D545D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{5C7E9D74-1490-4F0E-B379-59A35151A735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C7E9D74-1490-4F0E-B379-59A35151A735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C7E9D74-1490-4F0E-B379-59A35151A735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04ABA41-78F8-4F64-9AFC-D23125D545D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04ABA41-78F8-4F64-9AFC-D23125D545D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04ABA41-78F8-4F64-9AFC-D23125D545D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04ABA41-78F8-4F64-9AFC-D23125D545D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
